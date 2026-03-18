@@ -1,0 +1,21 @@
+
+
+.main{
+    display: flex;
+    background-color: cornflowerblue;
+    margin:auto;
+    justify-content: center;
+    align-items: center;
+}
+.material-symbols-outlined{
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 48px;/*large size*/
+}
+body{
+    height: 800px;
+}
+
+
